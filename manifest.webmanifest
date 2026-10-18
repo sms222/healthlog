@@ -1,0 +1,16 @@
+{
+  "name": "My Health Log",
+  "short_name": "Health Log",
+  "description": "Personal blood pressure, medicine, weight and food log with voice entry.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F2FAFB",
+  "theme_color": "#0A7F89",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
